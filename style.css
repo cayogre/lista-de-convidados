@@ -1,0 +1,15 @@
+#enviar{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#organizar{
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+input{
+    margin: 10px;
+}
+body{
+    background-color: cadetblue;
+}
